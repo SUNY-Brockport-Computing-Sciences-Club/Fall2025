@@ -5,3 +5,4 @@ Hello, I've decided to bless you with some lines of WebDNA code, for all you hav
 		[sku] - [name] <br>
 	[/founditems]
 [/search]
+ 
